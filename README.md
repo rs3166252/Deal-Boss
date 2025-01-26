@@ -18,8 +18,8 @@ Your privacy is important to us. This policy explains how Deals Boss collects, u
 - Deals Boss does **not** collect user data, personal messages, or any other sensitive information.  
 
 ### How We Store Data  
-- Collected data is stored securely in **Google Sheets**, which can only be accessed by the bot at runtime and by the developer (Rohtash) for troubleshooting and maintenance.  
-- Data in Google Sheets is encrypted and protected with access controls to ensure its security.  
+- Collected data is stored securely in **Google Sheets**, which is accessible only to the bot at runtime and the developer (Rohtash) for troubleshooting and maintenance.  
+- While the data is **not encrypted**, it is protected through Google Sheets' access controls to prevent unauthorized access.  
 
 ### How We Use Your Data  
 - Server and channel information is used solely to deliver deals to the designated channel.  
@@ -30,8 +30,8 @@ Your privacy is important to us. This policy explains how Deals Boss collects, u
 - Affiliate links redirect users to Amazon, where Amazon's privacy policies apply beyond this point.  
 
 ### Data Security  
-- All collected data is stored securely in Google Sheets with restricted access.  
-- Access to this data is limited to the developer and is used exclusively for troubleshooting and maintenance.  
+- Data stored in Google Sheets is protected through restricted access controls, ensuring only the bot and the developer can access it.  
+- Although the data is not encrypted, it is safeguarded against unauthorized access.  
 
 ### User Control  
 - Server administrators can remove the bot at any time, which will stop all data collection for that server.  
