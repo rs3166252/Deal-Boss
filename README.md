@@ -1,10 +1,10 @@
 # Deal-Boss
 Deal Boss (Terms of Service & Privacy Policy)
 # Privacy Policy
-- -- Effective Date: [03:58 PM 26-Jan-2025 IST]
---- Your privacy is important to us. This policy explains how Deals Boss collects, uses, and protects your data.
+- Effective Date: [03:58 PM 26-Jan-2025 IST]
+- Your privacy is important to us. This policy explains how Deals Boss collects, uses, and protects your data.
 ##### Data We Collect
--- Server Information: Server ID, Channel ID (where deals are posted), and the number of members in the server.
+- Server Information: Server ID, Channel ID (where deals are posted), and the number of members in the server.
 - Logs: Failure logs (e.g., server name, reason for failure) to troubleshoot issues and improve the bot’s functionality.
 ##### Data We Do Not Collect
 - Deals Boss does not collect user data, personal messages, or any other sensitive information.
