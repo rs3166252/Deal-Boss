@@ -23,7 +23,7 @@ Deal Boss (Terms of Service & Privacy Policy)
 - If you have questions about this policy or your data, contact the developer at [Discord Link: https://discord.gg/uBmUGuWWgT].
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Terms of Service
-- Effective Date: [Insert Date]
+- Effective Date: [03:58 PM 26-Jan-2025 IST]
 - Welcome to Deals Boss! By inviting and using the Deals Boss bot in your Discord server, you agree to the following Terms of Service:
 ##### Service Description
 - Deals Boss provides Amazon-affiliated deals to a dedicated channel in Discord servers as configured by server administrators or owners.
